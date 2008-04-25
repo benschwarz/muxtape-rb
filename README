@@ -1,6 +1,9 @@
-Download your favourite muxtapes using this command line tool.
+Download your favorite muxtapes using this command line tool.
 
-Bits and peices, stolen, chopped and skewed from multiple sources.
+Select a 'featured' tape or bash in the name of one of your favorites.
+Tracks will download and add to a new iTunes playlist.
+
+Bits and pieces, stolen, chopped and skewed from multiple sources.
 Highline CLI menus added by the prevalent `hassox`, Daniel Neighman
 
 Mashed up and packaged by Ben Schwarz
@@ -8,3 +11,4 @@ Mashed up and packaged by Ben Schwarz
 
 
 Gem coming shortly. Pushing around gem specs and directories right now.
+
