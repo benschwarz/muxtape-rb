@@ -11,7 +11,7 @@ Mashed up and packaged by Ben Schwarz
 Installation: 
 
 `gem sources -a http://gems.github.com/`
-`sudo gem install benschwarz-muxtape-rb`
+`sudo gem install benschwarz-muxtape`
 
 Usage:
 
