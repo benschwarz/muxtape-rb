@@ -8,7 +8,22 @@ Highline CLI menus added by the prevalent `hassox`, Daniel Neighman
 
 Mashed up and packaged by Ben Schwarz
 
+Installation: 
 
+`gem sources -a http://gems.github.com/`
+`sudo gem install benschwarz-muxtape-rb`
 
-Gem coming shortly. Pushing around gem specs and directories right now.
+Usage:
 
+Homeslice:Muxtapes ben$ muxtape
+
+1. featured
+2. custom
+3. quit
+Would you like to select from the featured playlists or enter your own?
+2
+Which One?
+hiphop
+Downloading HIPHOP, (remember it?)
+Downloading 1 of 12
+... You get the idea
