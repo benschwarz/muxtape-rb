@@ -16,4 +16,5 @@ Gem::Specification.new do |s|
   
   # 'Binary' goodness
   s.default_executable = 'bin/muxtape'
+  s.executables = ["muxtape"]
 end
