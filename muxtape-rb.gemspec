@@ -1,6 +1,7 @@
-spec = Gem::Specification.new do |s| 
+Gem::Specification.new do |s|
   s.name = "muxtape"
-  s.version = Muxtape::VERSION
+  s.version = '0.0.1'
+  s.date = '26/4/08'
   s.author = "Ben Schwarz"
   s.email = "ben@germanforblack.com"
   s.homepage = "http://germanforblack.com/"
@@ -18,5 +19,3 @@ spec = Gem::Specification.new do |s|
   # 'Binary' goodness
   s.default_executable = 'bin/muxtape'
 end
-
-

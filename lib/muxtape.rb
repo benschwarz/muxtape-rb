@@ -7,12 +7,6 @@ require "appscript"
 require 'highline/import'
 include Appscript
 
-# Muxtape version for gemifying
-class Muxtape
-  VERSION = '0.0.1'
-end
-
-
 def get_featured_tapes
   doc = Hpricot(open("http://muxtape.com"))
   (doc/"ul.featured a").map{|e| e[:href].scan(/http:\/\/(.*?).muxtape.com/); $1 }.sort
